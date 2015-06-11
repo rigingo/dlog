@@ -42,15 +42,15 @@ It's the D Logger - simple logger pkg to setup four handlers for your basic logg
 
 ## Example Output of Above
 
-    # dlog-example mve$ dlog-example
+    # dlog-example
     ERROR: 2015/06/11 16:33:06 main.go:26: myVar is needed! Exiting ...
 
-    # dlog-example mve$ dlog-example --help
+    # dlog-example --help
     Usage of dlog-example:
       -debug=false: Debug
       -myVar="": Mandatory Var
 
-    # dlog-example mve$ dlog-example --myVar="Here You Go"
+    # dlog-example --myVar="Here You Go"
     INFO: 2015/06/11 16:33:57 main.go:29: thanks - got myVar=Here You Go
 
 ## License
