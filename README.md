@@ -16,7 +16,7 @@ It's the D Logger - simple logger pkg to setup four handlers for your basic logg
         "io/ioutil"
         "os"
 
-        "github.com/rigingo/dlog"
+        "github.com/vmogilev/dlog"
     )
 
     func main() {
