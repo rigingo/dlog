@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/rigingo/dlog"
+	"github.com/vmogilev/dlog"
 )
 
 func main() {
